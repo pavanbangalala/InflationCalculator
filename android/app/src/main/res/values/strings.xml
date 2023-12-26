@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">InflationCalculator</string>
+    <string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true" traslatable="false">ALWAYS_SEND</string>
+    <string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true" traslatable="false">ALWAYS_SEND</string>
 </resources>
