@@ -82,7 +82,7 @@ const styles = StyleSheet.create({
     marginVertical: 16,
   },
   text: {
-    fontSize: 24,
+    fontSize: 22,
     textAlign: 'center',
     color: '#E1E1DA',
     fontWeight: '600',
